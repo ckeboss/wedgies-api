@@ -1,0 +1,3 @@
+[submodule "oocurl"]
+	path = oocurl
+	url = git@github.com:jsocol/oocurl.git
